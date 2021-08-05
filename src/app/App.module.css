@@ -1,0 +1,28 @@
+.appContainer {
+  width: 100%;
+  min-height: 100vh;
+  padding: 32px 46px;
+  background: #fefefe;
+}
+
+.header {
+  margin: 0 0 16px;
+}
+
+.mainWrapper {
+  display: flex;
+  flex-flow: column;
+}
+
+.reposWrapper {
+  composes: mainWrapper;
+}
+
+.noReposText {
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 40px auto;
+  color: #081f32;
+}
