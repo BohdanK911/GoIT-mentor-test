@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-mentor-test/static/css/main.73bb6ff7.chunk.css",
-    "main.js": "/goit-mentor-test/static/js/main.a2000e2a.chunk.js",
-    "main.js.map": "/goit-mentor-test/static/js/main.a2000e2a.chunk.js.map",
-    "runtime-main.js": "/goit-mentor-test/static/js/runtime-main.52fe8287.js",
-    "runtime-main.js.map": "/goit-mentor-test/static/js/runtime-main.52fe8287.js.map",
-    "static/css/2.e4b23567.chunk.css": "/goit-mentor-test/static/css/2.e4b23567.chunk.css",
-    "static/js/2.26f17f37.chunk.js": "/goit-mentor-test/static/js/2.26f17f37.chunk.js",
-    "static/js/2.26f17f37.chunk.js.map": "/goit-mentor-test/static/js/2.26f17f37.chunk.js.map",
-    "index.html": "/goit-mentor-test/index.html",
-    "static/css/2.e4b23567.chunk.css.map": "/goit-mentor-test/static/css/2.e4b23567.chunk.css.map",
-    "static/css/main.73bb6ff7.chunk.css.map": "/goit-mentor-test/static/css/main.73bb6ff7.chunk.css.map",
-    "static/js/2.26f17f37.chunk.js.LICENSE.txt": "/goit-mentor-test/static/js/2.26f17f37.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/goit-mentor-test/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
+    "main.css": "/GoIT-mentor-test/static/css/main.73bb6ff7.chunk.css",
+    "main.js": "/GoIT-mentor-test/static/js/main.2c9947ef.chunk.js",
+    "main.js.map": "/GoIT-mentor-test/static/js/main.2c9947ef.chunk.js.map",
+    "runtime-main.js": "/GoIT-mentor-test/static/js/runtime-main.b23ba7df.js",
+    "runtime-main.js.map": "/GoIT-mentor-test/static/js/runtime-main.b23ba7df.js.map",
+    "static/css/2.40dbaf9f.chunk.css": "/GoIT-mentor-test/static/css/2.40dbaf9f.chunk.css",
+    "static/js/2.26f17f37.chunk.js": "/GoIT-mentor-test/static/js/2.26f17f37.chunk.js",
+    "static/js/2.26f17f37.chunk.js.map": "/GoIT-mentor-test/static/js/2.26f17f37.chunk.js.map",
+    "index.html": "/GoIT-mentor-test/index.html",
+    "static/css/2.40dbaf9f.chunk.css.map": "/GoIT-mentor-test/static/css/2.40dbaf9f.chunk.css.map",
+    "static/css/main.73bb6ff7.chunk.css.map": "/GoIT-mentor-test/static/css/main.73bb6ff7.chunk.css.map",
+    "static/js/2.26f17f37.chunk.js.LICENSE.txt": "/GoIT-mentor-test/static/js/2.26f17f37.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/GoIT-mentor-test/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.52fe8287.js",
-    "static/css/2.e4b23567.chunk.css",
+    "static/js/runtime-main.b23ba7df.js",
+    "static/css/2.40dbaf9f.chunk.css",
     "static/js/2.26f17f37.chunk.js",
     "static/css/main.73bb6ff7.chunk.css",
-    "static/js/main.a2000e2a.chunk.js"
+    "static/js/main.2c9947ef.chunk.js"
   ]
 }
