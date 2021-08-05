@@ -2,7 +2,7 @@
   "name": "goit-mentor-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bohdank911.github.io/goit-mentor-test",
+  "homepage": "http://bohdank911.github.io/GoIT-mentor-test",
   "dependencies": {
     "@fontsource/archivo": "^4.5.0",
     "@fontsource/dm-serif-display": "^4.5.0",
