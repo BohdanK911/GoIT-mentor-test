@@ -1,0 +1,9 @@
+.loader {
+  width: 125px;
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 40px auto;
+  color: #081f32;
+}

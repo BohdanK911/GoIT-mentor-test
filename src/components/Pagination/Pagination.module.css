@@ -1,0 +1,39 @@
+.pagination {
+  display: flex;
+  list-style: none;
+  margin: 0 auto;
+  font-family: Archivo;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #000;
+}
+
+.paginationButton {
+  display: block;
+  margin: 10px 11px;
+  cursor: pointer;
+}
+
+.paginationButtonDisabled {
+  composes: paginationButton;
+  color: #1111117a;
+  cursor: not-allowed;
+}
+
+.paginationItem {
+  display: block;
+  padding: 10px 11px;
+  margin: 0 1px;
+  border-bottom: 3px solid transparent;
+  transition: all ease-in 100ms;
+}
+
+.paginationItemActive {
+  composes: paginationItem;
+  border-bottom-color: #65b79a;
+}
+
+.paginationItemLink {
+  cursor: pointer;
+}
